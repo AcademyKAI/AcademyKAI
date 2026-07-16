@@ -4,7 +4,7 @@
 
 ### Junior DevOps Engineer
 
-Изучаю DevOps, Linux и автоматизацию инфраструктуры в **KAI IT Academy**.  
+DevOps-инженер с практическим опытом работы с автоматизацией, контейниризацией и IT-инфраструктурой.  
 В этом профиле собраны мои учебные проекты и практические работы.
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
