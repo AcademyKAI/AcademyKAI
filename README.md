@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет! Я — Имя 👋
+# Привет! Я — Arman 👋
 
 ### Junior DevOps Engineer
 
